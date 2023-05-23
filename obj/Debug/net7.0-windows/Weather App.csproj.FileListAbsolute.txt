@@ -1,0 +1,20 @@
+C:\Users\User\source\repos\Weather App\bin\Debug\net7.0-windows\Weather App.exe
+C:\Users\User\source\repos\Weather App\bin\Debug\net7.0-windows\Weather App.deps.json
+C:\Users\User\source\repos\Weather App\bin\Debug\net7.0-windows\Weather App.runtimeconfig.json
+C:\Users\User\source\repos\Weather App\bin\Debug\net7.0-windows\Weather App.dll
+C:\Users\User\source\repos\Weather App\bin\Debug\net7.0-windows\Weather App.pdb
+C:\Users\User\source\repos\Weather App\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather_App.FrmMain.resources
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.AssemblyInfo.cs
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.csproj.CopyComplete
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.dll
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\refint\Weather App.dll
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.pdb
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather App.genruntimeconfig.cache
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\ref\Weather App.dll
+C:\Users\User\source\repos\Weather App\obj\Debug\net7.0-windows\Weather_App.Properties.Resources.resources

@@ -1,2 +1,4 @@
 # Weather-App
-Um aplicativo de previsão do tempo
+Um aplicativo para previsão do tempo
+
+---

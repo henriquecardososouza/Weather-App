@@ -1,0 +1,294 @@
+{
+  "data": {
+    "row": [
+      {
+        "code": 1000,
+        "day": "Sol",
+        "night": "Céu limpo",
+        "icon": 113
+      },
+      {
+        "code": 1003,
+        "day": "Parcialmente Nublado",
+        "night": "Parcialmente Nublado",
+        "icon": 116
+      },
+      {
+        "code": 1006,
+        "day": "Nublado",
+        "night": "Nublado",
+        "icon": 119
+      },
+      {
+        "code": 1009,
+        "day": "Encoberto",
+        "night": "Encoberto",
+        "icon": 122
+      },
+      {
+        "code": 1030,
+        "day": "Neblina",
+        "night": "Neblina",
+        "icon": 143
+      },
+      {
+        "code": 1063,
+        "day": "Possibilidade de chuva irregular",
+        "night": "Possibilidade de chuva irregular",
+        "icon": 176
+      },
+      {
+        "code": 1066,
+        "day": "Possibilidade de neve irregular",
+        "night": "Possibilidade de neve irregular",
+        "icon": 179
+      },
+      {
+        "code": 1069,
+        "day": "Possibilidade de neve molhada irregular",
+        "night": "Possibilidade de neve molhada irregular",
+        "icon": 182
+      },
+      {
+        "code": 1072,
+        "day": "Possibilidade de chuvisco gelado irregular",
+        "night": "Possibilidade de chuvisco gelado irregular",
+        "icon": 185
+      },
+      {
+        "code": 1087,
+        "day": "Possibilidade de trovoada",
+        "night": "Possibilidade de trovoada",
+        "icon": 200
+      },
+      {
+        "code": 1114,
+        "day": "Rajadas de vento com neve",
+        "night": "Rajadas de vento com neve",
+        "icon": 227
+      },
+      {
+        "code": 1117,
+        "day": "Nevasca",
+        "night": "Nevasca",
+        "icon": 230
+      },
+      {
+        "code": 1135,
+        "day": "Nevoeiro",
+        "night": "Nevoeiro",
+        "icon": 248
+      },
+      {
+        "code": 1147,
+        "day": "Nevoeiro gelado",
+        "night": "Nevoeiro gelado",
+        "icon": 260
+      },
+      {
+        "code": 1150,
+        "day": "Chuvisco irregular",
+        "night": "Chuvisco irregular",
+        "icon": 263
+      },
+      {
+        "code": 1153,
+        "day": "Chuvisco",
+        "night": "Chuvisco",
+        "icon": 266
+      },
+      {
+        "code": 1168,
+        "day": "Chuvisco gelado",
+        "night": "Chuvisco gelado",
+        "icon": 281
+      },
+      {
+        "code": 1171,
+        "day": "Chuvisco forte gelado",
+        "night": "Chuvisco forte gelado",
+        "icon": 284
+      },
+      {
+        "code": 1180,
+        "day": "Chuva fraca irregular",
+        "night": "Chuva fraca irregular",
+        "icon": 293
+      },
+      {
+        "code": 1183,
+        "day": "Chuva fraca",
+        "night": "Chuva fraca",
+        "icon": 296
+      },
+      {
+        "code": 1186,
+        "day": "Períodos de chuva moderada",
+        "night": "Períodos de chuva moderada",
+        "icon": 299
+      },
+      {
+        "code": 1189,
+        "day": "Chuva moderada",
+        "night": "Chuva moderada",
+        "icon": 302
+      },
+      {
+        "code": 1192,
+        "day": "Períodos de chuva forte",
+        "night": "Períodos de chuva forte",
+        "icon": 305
+      },
+      {
+        "code": 1195,
+        "day": "Chuva forte",
+        "night": "Chuva forte",
+        "icon": 308
+      },
+      {
+        "code": 1198,
+        "day": "Chuva fraca e gelada",
+        "night": "Chuva fraca e gelada",
+        "icon": 311
+      },
+      {
+        "code": 1201,
+        "day": "Chuva gelada moderada ou forte",
+        "night": "Chuva gelada moderada ou forte",
+        "icon": 314
+      },
+      {
+        "code": 1204,
+        "day": "Chuva fraca com neve",
+        "night": "Chuva fraca com neve",
+        "icon": 317
+      },
+      {
+        "code": 1207,
+        "day": "Chuva forte ou moderada com neve",
+        "night": "Chuva forte ou moderada com neve",
+        "icon": 320
+      },
+      {
+        "code": 1210,
+        "day": "Queda de neve irregular e fraca",
+        "night": "Queda de neve irregular e fraca",
+        "icon": 323
+      },
+      {
+        "code": 1213,
+        "day": "Queda de neve fraca",
+        "night": "Queda de neve fraca",
+        "icon": 326
+      },
+      {
+        "code": 1216,
+        "day": "Queda de neve moderada e irregular",
+        "night": "Queda de neve moderada e irregular",
+        "icon": 329
+      },
+      {
+        "code": 1219,
+        "day": "Queda de neve moderada",
+        "night": "Queda de neve moderada",
+        "icon": 332
+      },
+      {
+        "code": 1222,
+        "day": "Queda de neve forte e irregular",
+        "night": "Queda de neve forte e irregular",
+        "icon": 335
+      },
+      {
+        "code": 1225,
+        "day": "Neve intensa",
+        "night": "Neve intensa",
+        "icon": 338
+      },
+      {
+        "code": 1237,
+        "day": "Granizo",
+        "night": "Granizo",
+        "icon": 350
+      },
+      {
+        "code": 1240,
+        "day": "Aguaceiros fracos",
+        "night": "Aguaceiros fracos",
+        "icon": 353
+      },
+      {
+        "code": 1243,
+        "day": "Aguaceiros moderados ou fortes",
+        "night": "Aguaceiros moderados ou fortes",
+        "icon": 356
+      },
+      {
+        "code": 1246,
+        "day": "Chuva torrencial",
+        "night": "Chuva torrencial",
+        "icon": 359
+      },
+      {
+        "code": 1249,
+        "day": "Aguaceiros fracos com neve",
+        "night": "Aguaceiros fracos com neve",
+        "icon": 362
+      },
+      {
+        "code": 1252,
+        "day": "Aguaceiros moderados ou fortes com neve",
+        "night": "Aguaceiros moderados ou fortes com neve",
+        "icon": 365
+      },
+      {
+        "code": 1255,
+        "day": "Chuva fraca com neve",
+        "night": "Chuva fraca com neve",
+        "icon": 368
+      },
+      {
+        "code": 1258,
+        "day": "Chuva moderada ou forte com neve",
+        "night": "Chuva moderada ou forte com neve",
+        "icon": 371
+      },
+      {
+        "code": 1261,
+        "day": "Aguaceiros fracos com granizo",
+        "night": "Aguaceiros fracos com granizo",
+        "icon": 374
+      },
+      {
+        "code": 1264,
+        "day": "Aguaceiros moderados ou fortes com granizo",
+        "night": "Aguaceiros moderados ou fortes com granizo",
+        "icon": 377
+      },
+      {
+        "code": 1273,
+        "day": "Chuva fraca irregular com trovoada",
+        "night": "Chuva fraca irregular com trovoada",
+        "icon": 386
+      },
+      {
+        "code": 1276,
+        "day": "Chuva moderada ou forte com trovoada",
+        "night": "Chuva moderada ou forte com trovoada",
+        "icon": 389
+      },
+      {
+        "code": 1279,
+        "day": "Neve fraca irregular com trovoada",
+        "night": "Neve fraca irregular com trovoada",
+        "icon": 392
+      },
+      {
+        "code": 1282,
+        "day": "Neve moderada ou forte com trovoada",
+        "night": "Neve moderada ou forte com trovoada",
+        "icon": 395
+      }
+    ]
+  }
+}
